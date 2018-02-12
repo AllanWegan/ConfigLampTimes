@@ -1,0 +1,16 @@
+ConfigLampTimes is a mod for Factorio.
+
+It allows to configure the start and end brightness levels for lamp staggering.
+
+To be used with pure vanilla or mods that add or change lamps.
+All lamps share the same staggering parameters.
+
+To disable staggering use the same value for staggering start and end brightness.
+
+
+Licensed under the GNU GPL-3.0 or later.
+
+
+History:
+
+- Version 0.0.0 is the first version and compatible to Factorio 0.16 with bugfix-level 23 or greater

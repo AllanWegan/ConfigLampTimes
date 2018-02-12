@@ -1,0 +1,12 @@
+{
+  "name": "ConfigLampTimes",
+  "title": "Configurable Lamp Times",
+  "author": "Allan Wegan alias Oktokolo",
+  "contact": "allanwegan@allanwegan.de",
+  "homepage": "https://github.com/AllanWegan/ConfigLampTimes",
+  "description": "Makes lamp staggering start and stop times configurable.",
+  "dependencies": ["base >= 0.16.23"],
+  "factorio_version": "0.16",
+  "license": "GNU GPL-3.0 or later",
+  "version": "0.0.1"
+}
