@@ -5,8 +5,7 @@
   "contact": "allanwegan@allanwegan.de",
   "homepage": "https://github.com/AllanWegan/ConfigLampTimes",
   "description": "Makes lamp staggering start and stop times configurable.",
-  "factorio_version": "0.17",
-  "dependencies": ["base >= 0.16.23"],
+  "factorio_version": "0.18",
   "license": "GNU GPL-3.0 or later",
-  "version": "0.0.2"
+  "version": "0.0.4"
 }
