@@ -2,20 +2,25 @@
 Version: 0.0.1
 Date: 2018-02-13
   Info:
-    - First version, compatible with Factorio 0.16
+    - First version, compatible with Factorio 0.16.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 2019-03-13
   Info:
-    - Version bump for Factorio 0.17
-    - Added a mod thumbnail
+    - Version bump for Factorio 0.17.
+    - Added a mod thumbnail.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 2020-02-03
   Info:
-    - Version bump for Factorio 0.18
+    - Version bump for Factorio 0.18.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 2020-02-05
   Info:
-    - Added a changelog.txt
+    - Added a changelog.txt.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 2020-12-14
+  Info:
+    - Version bump for Factorio 1.1.
